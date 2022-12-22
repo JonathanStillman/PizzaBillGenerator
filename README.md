@@ -1,4 +1,4 @@
-# PizzaBillGenerator
+# Pizza Bill Generator
 
 ## Overview
 Creating a simple application called Pizza Bill Generator using core and and object oriented programming technique.
