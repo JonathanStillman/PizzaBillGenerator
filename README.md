@@ -4,7 +4,7 @@
 Creating a simple application called Pizza Bill Generator using core and and object oriented programming technique.
 
 ## Recommended Setup
-Visual Studio / Eclipse
+IntelliJ / Eclipse
 
 ## License
 
